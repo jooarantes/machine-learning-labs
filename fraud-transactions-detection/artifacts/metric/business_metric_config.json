@@ -1,0 +1,12 @@
+{
+    "metric_name": "business_metric",
+    "version": "v1",
+    "gain_legitimate_accept_rate": 0.02,
+    "gain_fraud_refuse": 50,
+    "loss_legitimate_refuse": 5,
+    "description": "Business-driven metric for fraud detection",
+    "used_for": [
+        "threshold_optimization",
+        "model_comparison"
+    ]
+}

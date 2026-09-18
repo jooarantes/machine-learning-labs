@@ -1,0 +1,6 @@
+{
+    "optimal_threshold": 0.09,
+    "business_metric": 101457.2686,
+    "strategy": "maximize_business_metric",
+    "split": "validation"
+}
