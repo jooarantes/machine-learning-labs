@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: credit-default-prediction
+Version: 0.1.0
+Summary: Projeto de modelagem de risco de crédito
+Author: João Arantes
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

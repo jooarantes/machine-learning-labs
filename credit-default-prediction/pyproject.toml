@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "credit-default-prediction"
+version = "0.1.0"
+description = "Projeto de modelagem de risco de crédito"
+authors = [
+    { name = "João Arantes" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
