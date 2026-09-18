@@ -1,8 +1,0 @@
-{
-  "strategy": "train_val_test",
-  "train_ratio": 0.6,
-  "val_ratio": 0.2,
-  "test_ratio": 0.2,
-  "stratify": "target",
-  "random_state": 42
-}
